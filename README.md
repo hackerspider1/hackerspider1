@@ -92,7 +92,7 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
     <img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
   </a>
   <a href="https://expressjs.com/">
-    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
+    <img src="https://img.shields.io/badge/MacOS-000000?&style=for-the-badge&logo=Apple&logoColor=white">
   </a>
 </p>
 
