@@ -1,6 +1,6 @@
-# [](https://guptashubham.com)
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/XTW52Kt">
+<a href="https://discord.gg/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/discord.svg?raw=true" />
 </a>
 <a href="https://instagram.com/hackerspider1">
@@ -18,16 +18,15 @@
 <a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
   <img align="left" alt="Shubham Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
-<a href="https://www.buymeacoffee.com/hackerspider1">
-  <img align="left" alt="Shubham Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/buy_me_coffee.svg?raw=true" />
-</a>
-</p>
+
+
+![](https://visitor-badge.glitch.me/badge?page_id=hackerspider1)
 
 ---
 
-### Hi there 👋
-
 My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living in Delhi NCR and currently working at Delitte USI.
+
+<img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
 
 Here are some ideas to get you started:
 
@@ -39,6 +38,12 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mailto:jerry@guptashubham.com
 - 😄 Pronouns: Jerry
 - ⚡ Fun fact: I feel like I'm lonely but I like to be lonely.
+
+
+
+if you want to buy a beer for me 🥺👉👈
+
+<a href="https://www.buymeacoffee.com/hackerspider1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
 # Technologies & Tools
 
