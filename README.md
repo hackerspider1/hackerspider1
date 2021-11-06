@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 ### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png?raw=true"> Latest Followers
 
-<p align='center'>
- <p/>
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/shubham_followers.svg">
