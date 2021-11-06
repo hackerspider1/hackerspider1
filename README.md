@@ -1,6 +1,6 @@
 ### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<a href="https://discord.gg/">
+<a href="https://discord.gg/NeGvnmuB/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/discord.svg?raw=true" />
 </a>
 <a href="https://instagram.com/hackerspider1">
@@ -28,12 +28,12 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🏦 I'm a Penetration Tester working for a Deloitte USI in India 
+- 🏦 I'm a Penetration Tester working for Deloitte USI, living in Delhi NCR 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - 📝 I write my findings [here](https://guptashubham.com/) and [Echopwn](https://echopwn.com)
 - 🧳  I am currently Planning **My Next Trip**
 - 📱  Talk to me about Travel, Hacking (both of these are not any kind of insect or animals), silicon valley & Mr. Robot 🎥 
-- 👯 We can connect to smoke pot ♟
+- 👯 We can connect to smoke pot 🚬 
 - ⚡ Fun fact: I'm lonely but I like to be lonely still I feel lonely o_O
 
 
@@ -64,3 +64,5 @@ if you want to buy a beer for me 🥺👉👈
 	</div>
 	
 			⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.66 % as on ⏰ 7-Nov-2021
+	
+
