@@ -34,11 +34,12 @@ Here are some ideas to get you started:
 
 ### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png"> Latest Followers
 
-
 <p align='center'>
+	</p>
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/shubham_followers.svg">
-		<img src="follower.svg" width="800" height="140">
+	<a href="https://raw.githubusercontent.com/hackerspider1/hackerspider1/adc95f2e996041487aba11eb4bc7dd2d3ef17203/followers.svg">
+		<img src="followers.svg" width="800" height="140">
 	</a>
+	</p>
 </div>
