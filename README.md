@@ -15,7 +15,7 @@
 <a href="https://www.facebook.com/hackerspider1/">
   <img align="left" alt="Shubham Facebook" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/facebook.svg?raw=true" />
 </a>
-<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+<a href="https://open.spotify.com/playlist/4VFPUarxug3APc05glP2ou?si=GDLtHkdyRnuaEHALKkdi5w">
   <img align="left" alt="Shubham Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
 </a>
 
