@@ -12,3 +12,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: mailto:jerry@guptashubham.com
 - 😄 Pronouns: Jerry
 - ⚡ Fun fact: I feel like I'm lonely but I like to be lonely.
+
+# Technologies & Tools
+
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=ZSH&logoColor=white&color=2bbc8a)
+
+
+### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png?raw=true"> Latest Followers
+
+<p align='center'>
+ <p/>
+<div align="center">
+	<br>
+	<a href="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/shubham_followers.svg">
+		<img src="follower.svg" width="800" height="140">
+	</a>
+</div>
