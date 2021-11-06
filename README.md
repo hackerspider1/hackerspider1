@@ -22,8 +22,6 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=hackerspider1)
 
----
-
 My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living in Delhi NCR and currently working at Delitte USI.
 
 <img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
@@ -32,7 +30,7 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 - 🏦 I'm a Penetration Tester working for a Deloitte USI in India 
       <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- 📝 I write my findings [here](https://guptashubham.com/blog/) and [Echopwn](https://echopwn.com)
+- 📝 I write my findings [here](https://guptashubham.com/) and [Echopwn](https://echopwn.com)
 - 🧳  I am currently Planning **My Next Trip**
 - 📱  Talk to me about Travel, Hacking (both of these are not any kind of insect or animals), silicon valley & Mr. Robot 🎥 
 - 👯 We can connect to smoke pot ♟
