@@ -7,7 +7,7 @@
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/instagram.svg?raw=true" />
 </a>
 <a href="https://twitter.com/hackerspider1">
-  <img align="left" alt="Shubham Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+  <img align="left" alt="Shubham Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg?raw=true" />
 </a>
 <a href="https://www.linkedin.com/in/hackerspider1/">
   <img align="left" alt="Shubham LinkedIN" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />
@@ -51,7 +51,7 @@ if you want to buy a beer for me 🥺👉👈
 
 ---
 
-### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png"> Latest Followers
+### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg?raw=true"> Latest Followers
 
 <p align='center'>
 	</p>
