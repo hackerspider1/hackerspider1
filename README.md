@@ -30,15 +30,13 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🔭 I’m currently working on Recon
-- 🌱 I’m currently learning coding
-- 👯 I’m looking to collaborate on Bug Bounty
-- 🤔 I’m looking for help with smoking a pot
-- 💬 Ask me about anything
-- 📫 How to reach me: mailto:jerry@guptashubham.com
-- 😄 Pronouns: Jerry
-- ⚡ Fun fact: I feel like I'm lonely but I like to be lonely.
-
+- 🏦 I'm a Penetration Tester working for a Deloitte USI in India 
+      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 📝 I write my findings [here](https://guptashubham.com/blog/) and [Echopwn](https://echopwn.com)
+- 🧳  I am currently Planning **My Next Trip**
+- 📱  Talk to me about Travel, Hacking (both of these are not any kind of insect or animals), silicon valley & Mr. Robot 🎥 
+- 👯 We can connect to smoke pot ♟
+- ⚡ Fun fact: I'm lonely but I like to be lonely still I feel lonely o_O
 
 
 if you want to buy a beer for me 🥺👉👈
