@@ -28,7 +28,7 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 <img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
 
-Here are some ideas to get you started:
+### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
 - 🔭 I’m currently working on Recon
 - 🌱 I’m currently learning coding
@@ -62,3 +62,9 @@ if you want to buy a beer for me 🥺👉👈
 	</a>
 	</p>
 </div>
+
+<div align="center">
+	<a href="https://www.guptashubham.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hackerspider1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+	</div>
+	
+			⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.66 % as on ⏰ 7-Nov-2021
