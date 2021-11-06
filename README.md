@@ -28,8 +28,7 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 ### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
 
-- 🏦 I'm a Penetration Tester working for Deloitte USI, living in Delhi NCR 
-      <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+- 🏦 I'm a Penetration Tester working for Deloitte USI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Love travelling 🇺🇦 🇸🇦 🇸🇬 🇲🇾 🇮🇩 🇴🇲 🇮🇳 🇶🇦 🇹🇭 🇰🇭 🇻🇳 🇺🇸 🇲🇽 
 - 📝 I write my findings [here](https://guptashubham.com/) and [Echopwn](https://echopwn.com)
 - 🧳  I am currently Planning **My Next Trip**
 - 📱  Talk to me about Travel, Hacking (both of these are not any kind of insect or animals), silicon valley & Mr. Robot 🎥 
@@ -37,13 +36,66 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 - ⚡ Fun fact: I'm lonely but I like to be lonely still I feel lonely o_O
 
 
-if you want to buy a beer for me 🥺👉👈
+<h3 align="center"> if you want to buy a beer for me 🥺👉👈
+<p></P>
+<a href="https://www.buymeacoffee.com/hackerspider1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a> </h3>
 
-<a href="https://www.buymeacoffee.com/hackerspider1" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+<h2 align="center"> 🔧 Skills & Tools: </h2>
 
-# Technologies & Tools
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=ZSH&logoColor=white&color=2bbc8a)
+<p align="center">
+  <a href="https://www.typescriptlang.org/">
+    <img src="https://img.shields.io/badge/Web-PT-3178C6?&style=for-the-badge&logo=web&logoColor=white">
+  </a>
+  <a href="https://golang.org/">
+    <img src="https://img.shields.io/badge/PT-00ADD8?&style=for-the-badge&logo=android&logoColor=white">
+  </a>
+  <a href="https://www.rust-lang.org/">
+    <img src="https://img.shields.io/badge/PT-000000?&style=for-the-badge&logo=ios&logoColor=white">
+  </a>
+  <a href="https://www.cplusplus.com/doc/tutorial/">
+    <img src="https://img.shields.io/badge/burp Suite-00599C?style=for-the-badge&logo=java&logoColor=white">
+  </a>
+  <a href="https://html.com/">
+    <img src="https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
+  </a>
+  <a href="https://www.w3schools.com/css/">
+    <img src="https://img.shields.io/badge/Dirsearch-1572B6?style=for-the-badge&logo=python&logoColor=white">
+  </a>
+  <a href="https://www.javascript.com/">
+    <img src="https://img.shields.io/badge/Subfinder-httpx-323330?style=for-the-badge&logo=go&logoColor=F7DF1E">
+  </a>
+  <br>
+  <a href="https://nodejs.org/en/">
+    <img src="https://img.shields.io/badge/Naabu-nuclei-339933?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://www.json.org/json-en.html">
+    <img src="https://img.shields.io/badge/Assetfinder-Amass-000000?style=for-the-badge&logo=go&logoColor=white">
+  </a>
+  <a href="https://www.sublimetext.com/">
+    <img src="https://img.shields.io/badge/sublime%20text-FF9800?&style=for-the-badge&logo=sublime-text&logoColor=white">
+  </a>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/VS%20Code-007ACC?&style=for-the-badge&logo=visual-studio-code&logoColor=white">
+  </a>
+  <a href="https://www.google.com/intl/en_in/chrome/">
+    <img src="https://img.shields.io/badge/google%20chrome-4285F4?&style=for-the-badge&logo=google%20chrome&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/github-F05032?&style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <br>
+  <a href="https://reactjs.org/">
+    <img src="https://img.shields.io/badge/Metasploit-61DAFB?&style=for-the-badge&logo=Meta&logoColor=121212">
+  </a>
+  <a href="https://www.sqlite.org/index.html">
+    <img src="https://img.shields.io/badge/Sqlmap-003B57?&style=for-the-badge&logo=mysql&logoColor=white">
+  </a>
+  <a href="https://expressjs.com/">
+    <img src="https://img.shields.io/badge/express.js-000000?&style=for-the-badge&logo=Express&logoColor=white">
+  </a>
+</p>
+
 
 ---
 
@@ -64,5 +116,5 @@ if you want to buy a beer for me 🥺👉👈
 	</div>
 	
 			⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.66 % as on ⏰ 7-Nov-2021
-	
+---	
 
