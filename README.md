@@ -5,10 +5,10 @@
 </p>
 
 <p align='center'>
-<a href="https://twitter.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/instagram.jpeg?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/by-me-a-coffee.png?raw=true"></a>
-<a href="https://www.linkedin.com/in/hackerspider1/"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/linkedin.png?raw=true"></a>
+<a href="https://twitter.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png"></a>&nbsp;&nbsp;
+<a href="https://instagram.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/instagram.jpeg"></a>&nbsp;&nbsp;
+<a href="https://www.buymeacoffee.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/by-me-a-coffee.png"></a>
+<a href="https://www.linkedin.com/in/hackerspider1/"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/linkedin.png"></a>
 </p>
 
 ### Hi there 👋
@@ -30,9 +30,12 @@ Here are some ideas to get you started:
 
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=OS&logoColor=white&color=2bbc8a) ![](https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=ZSH&logoColor=white&color=2bbc8a)
 
+---
 
-### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png?raw=true"> Latest Followers
+### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png"> Latest Followers
 
+
+<p align='center'>
 <div align="center">
 	<br>
 	<a href="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/shubham_followers.svg">
