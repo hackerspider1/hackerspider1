@@ -1,15 +1,29 @@
 # [](https://guptashubham.com)
 
-<p>
-  <a href="https://waylonwalker.com/Links"><img width="150" align='right' src="https://guptashubham.com/assets/my-images/shubham-about-1.jpeg"></a>
+<a href="https://discord.gg/XTW52Kt">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/discord.svg?raw=true" />
+</a>
+<a href="https://instagram.com/hackerspider1">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/instagram.svg?raw=true" />
+</a>
+<a href="https://twitter.com/hackerspider1">
+  <img align="left" alt="Shubham Gupta | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/hackerspider1/">
+  <img align="left" alt="Shubham LinkedIN" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/linkedin.svg?raw=true" />
+</a>
+<a href="https://www.facebook.com/hackerspider1/">
+  <img align="left" alt="Shubham Facebook" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/facebook.svg?raw=true" />
+</a>
+<a href="https://open.spotify.com/user/e90fe4zsndbm6xoe2t7t8kogf?si=WaLKpwvWTle0btle2qPb6g">
+  <img align="left" alt="Shubham Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/spotify.svg?raw=true" />
+</a>
+<a href="https://www.buymeacoffee.com/hackerspider1">
+  <img align="left" alt="Shubham Spotify" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/buy_me_coffee.svg?raw=true" />
+</a>
 </p>
 
-<p align='center'>
-<a href="https://twitter.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/twitter.png"></a>&nbsp;&nbsp;
-<a href="https://instagram.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/instagram.jpeg"></a>&nbsp;&nbsp;
-<a href="https://www.buymeacoffee.com/hackerspider1"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/by-me-a-coffee.png"></a>
-<a href="https://www.linkedin.com/in/hackerspider1/"><img height="30" src="https://raw.githubusercontent.com/hackerspider1/hackerspider1/main/linkedin.png"></a>
-</p>
+---
 
 ### Hi there 👋
 
