@@ -114,7 +114,9 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 <div align="center">
 	<a href="https://www.guptashubham.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hackerspider1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 	</div>
-	
+<div align="center">
 			⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.66 % as on ⏰ 7-Nov-2021
----	
+	</div>
+
+---
 
