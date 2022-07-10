@@ -1,4 +1,4 @@
-### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10px">
 
 <a href="https://discord.gg/NeGvnmuB/">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://github.com/hackerspider1/hackerspider1/blob/main/discord.svg?raw=true" />
@@ -26,7 +26,7 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 <img align="right" alt="GIF" src="https://github.com/hackerspider1/hackerspider1/blob/main/code.gif?raw=true" width="500" height="320" />
 
-### <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px"> About Me:
+### About Me:
 
 - 🏦 I'm a Penetration Tester working for Deloitte USI <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Love travelling 🇺🇦 🇸🇦 🇸🇬 🇲🇾 🇮🇩 🇴🇲 🇮🇳 🇶🇦 🇹🇭 🇰🇭 🇻🇳 🇺🇸 🇲🇽 
 - 📝 I write my findings [here](https://guptashubham.com/) and [Echopwn](https://echopwn.com)
@@ -37,6 +37,7 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 
 <h3 align="center"> if you want to buy a beer for me 🥺👉👈
+
 <p></P>
 <a href="https://www.buymeacoffee.com/hackerspider1"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a beer&emoji=&slug=hackerspider1&button_colour=FF5F5F&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
 </h3>
@@ -116,7 +117,7 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 	<a href="https://www.guptashubham.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hackerspider1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
 	</div>
 <div align="center">
-			⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 84.66 % as on ⏰ 7-Nov-2021
+			⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 60.66 % as on ⏰ 10-July-2022
 	</div>
 
 ---
