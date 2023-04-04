@@ -101,23 +101,8 @@ My name is Shubham Gupta and I'm a Penetration tester. I'm from Gwalior, living 
 
 ---
 
-### <img height="30" style="border-radius:50%" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg?raw=true"> Latest Followers
-
-<p align='center'>
-	</p>
-<div align="center">
-	<br>
-	<a href="https://raw.githubusercontent.com/hackerspider1/hackerspider1/adc95f2e996041487aba11eb4bc7dd2d3ef17203/followers.svg">
-		<img src="followers.svg" width="800" height="140">
-	</a>
-	</p>
-</div>
-
 <div align="center">
 	<a href="https://www.guptashubham.com/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=hackerspider1&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
-	</div>
-<div align="center">
-			⏳ **Year Progress** { █████████████████████████▁▁▁▁▁ } 60.66 % as on ⏰ 10-July-2022
 	</div>
 
 ---
